@@ -3,11 +3,11 @@
 Unity game script files, containing:
   
 -- AudioManager  
--- Bullet
+-- Bullet  
 -- CameraController  
 -- ChangeScene  
 -- Checkpoints  
--- EnemyController  
+-- EnemyController    
 -- EnemyStatus  
 -- EnemyController
 -- ExpManager  
