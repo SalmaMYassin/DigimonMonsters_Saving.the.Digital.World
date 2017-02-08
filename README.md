@@ -8,8 +8,7 @@ Unity game script files, containing:
 -- ChangeScene  
 -- Checkpoints  
 -- EnemyController    
--- EnemyStatus  
--- EnemyController
+-- EnemyStatus   
 -- ExpManager  
 -- EnemyFireBulletController  
 -- HealthUI  
